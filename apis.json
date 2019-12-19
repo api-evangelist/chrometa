@@ -1,0 +1,78 @@
+{
+    "name": "Chrometa",
+    "description": "Keep track of your billable hours on your Mac (and PC) - automatically.    The problem with most time-tracking systems \u2013 including sheets of paper, spreadsheets, and conventional software -- is they require you to constantly input or record your time t...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1561-chrometa.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "pim",
+        "tasks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/chrometa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Chrometa",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1561-chrometa.jpg",
+            "humanURL": "http:\/\/www.chrometa.com\/developers\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/chrometa-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/chrometa-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.chrometa.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/chrometa\/ieXl"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/chrometa"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/chrometa"
+        },
+        {
+            "type": "Email",
+            "url": "sales@chrometa.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@chrometa.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@chrometa.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Chrometa"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Chrometa"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.chrometa.com\/developers\/"
+        }
+    ]
+}
